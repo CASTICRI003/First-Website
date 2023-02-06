@@ -100,28 +100,33 @@ height: 500px;
     display: inline-block;
 }
 
+.MyWork pre a {
+    font-size: 35px;
+    color: turquoise;
+}
+
 .WorkSurf {
-    background: url("./images/Tree.jpg");
+    /* background: url("./images/Tree.jpg"); */
     font-size: 35px;
 }
 
 .LED {
-    background: url("./images/LED-Wall.jpg");
+    /* background: url("./images/LED-Wall.jpg"); */
     font-size: 35px;
 }
 
 .Calculator {
-    background: url("./images/calculator.png");
+    /* background: url("./images/calculator.png"); */
     font-size: 35px;
 }
 
 .Puzzle {
-    background: url("./images/puzzle.jpg");
+    /* background: url("./images/puzzle.jpg"); */
     font-size: 35px;
 }
 
 .Run {
-    background: url("./images/wall.jpg");
+    /* background: url("./images/wall.jpg"); */
     font-size: 35px;
 }
 
